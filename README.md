@@ -1,2 +1,2 @@
 # freeternity
-Freeternity landing page
+Freeternity Site
